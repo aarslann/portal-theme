@@ -6,4 +6,5 @@ return [
     'Sample' => 'Örnek',
     'Login' => 'Giriş',
     'Sign Up' => 'Kayıt Ol',
+    'Frequently Asked Questions' => 'Sıkça Sorulan Sorular'
 ];
